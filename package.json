@@ -1,0 +1,22 @@
+{
+  "name": "websitecreation2018q3",
+  "version": "1.0.0",
+  "description": "a small demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b00705312/websitecreation2018Q3.git"
+  },
+  "author": "B00705312",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b00705312/websitecreation2018Q3/issues"
+  },
+  "homepage": "https://github.com/b00705312/websitecreation2018Q3#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
